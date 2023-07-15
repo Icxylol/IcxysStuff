@@ -1,64 +1,8 @@
-NOVA GUI AND NOVA STAND ARE DISCONTINUED.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+UPDATE SOON
 
 ----------------------
 
-Copyright 2022, Icxy
+Copyright 2023, Icxy & Nova Staff Team
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
